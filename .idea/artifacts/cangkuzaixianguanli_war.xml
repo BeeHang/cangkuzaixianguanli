@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cangkuzaixianguanli:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cangkuzaixianguanli</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cangkuzaixianguanli.war">
+      <element id="artifact" artifact-name="cangkuzaixianguanli:war exploded" />
+    </root>
+  </artifact>
+</component>
